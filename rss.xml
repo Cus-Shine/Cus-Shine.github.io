@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
+        <title></title>
         <subtitle></subtitle>
         <icon>https://blog.xinzirui.cn/images/favicon.ico</icon>
         <link>https://blog.xinzirui.cn</link>
         <author>
-          <name>John Doe</name>
+          <name>Xin</name>
         </author>
         <description></description>
         <language>zh-CN</language>
@@ -27,6 +27,18 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://blog.xinzirui.cn/2020/12/24/Markdown%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</guid>
+            <title>Markdown使用指南</title>
+            <link>https://blog.xinzirui.cn/2020/12/24/Markdown%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</link>
+            <category term="Markdown使用指南" scheme="https://blog.xinzirui.cn/categories/Markdown%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/" />
+            <pubDate>Thu, 24 Dec 2020 12:10:45 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;markdownnote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdownnote&#34;&gt;#&lt;/a&gt; MarkdownNote&lt;/h1&gt;
+&lt;p&gt;common grammar--MarkdownNote&lt;/p&gt;
+&lt;p&gt;推荐 markdown 软件&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudHlwb3JhLmlvLw==&#34;&gt; Typora&lt;/span&gt;&lt;br /&gt;
+ 后文略...&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
