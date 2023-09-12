@@ -10,9 +10,9 @@
     </author>
     <updated>2023-09-12T11:41:06.558Z</updated>
     <entry>
-        <id>https://blog.xinzirui.cn/2023/09/12/%E7%AC%94%E8%AE%B0/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%AB/</id>
+        <id>https://blog.xinzirui.cn/2023/09/12/note/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%AB/</id>
         <title>模拟退火</title>
-        <link rel="alternate" href="https://blog.xinzirui.cn/2023/09/12/%E7%AC%94%E8%AE%B0/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%AB/"/>
+        <link rel="alternate" href="https://blog.xinzirui.cn/2023/09/12/note/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%AB/"/>
         <content type="html">&lt;h2 id=&#34;前导&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前导&#34;&gt;#&lt;/a&gt; 前导&lt;/h2&gt;
 &lt;p&gt;今天就浅浅学了一下，这玩意比较看运气吧。&lt;/p&gt;
 &lt;p&gt;声明：我学模拟退火时间不长，很多需要严谨证明的地方，我都没有证明。&lt;/p&gt;
@@ -235,9 +235,9 @@ int main()&amp;#123;
         <updated>2023-09-12T11:41:06.558Z</updated>
     </entry>
     <entry>
-        <id>https://blog.xinzirui.cn/2023/09/11/%E7%AC%94%E8%AE%B0/%E5%BC%82%E6%88%96/</id>
+        <id>https://blog.xinzirui.cn/2023/09/11/note/%E5%BC%82%E6%88%96/</id>
         <title></title>
-        <link rel="alternate" href="https://blog.xinzirui.cn/2023/09/11/%E7%AC%94%E8%AE%B0/%E5%BC%82%E6%88%96/"/>
+        <link rel="alternate" href="https://blog.xinzirui.cn/2023/09/11/note/%E5%BC%82%E6%88%96/"/>
         <content type="html">&lt;hr /&gt;
 &lt;h2 id=&#34;title异或&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#title异或&#34;&gt;#&lt;/a&gt; title: 异或&lt;/h2&gt;
 &lt;p&gt;&lt;s&gt;带点异或的都放进来了&lt;/s&gt;&lt;/p&gt;
