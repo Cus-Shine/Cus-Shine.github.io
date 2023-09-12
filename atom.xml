@@ -236,6 +236,19 @@ int main()&amp;#123;
         <updated>2023-09-12T11:41:06.558Z</updated>
     </entry>
     <entry>
+        <id>https://blog.xinzirui.cn/2023/09/11/note/%E5%BC%82%E6%88%96/</id>
+        <title>异或</title>
+        <link rel="alternate" href="https://blog.xinzirui.cn/2023/09/11/note/%E5%BC%82%E6%88%96/"/>
+        <content type="html">&lt;p&gt;&lt;s&gt;带点异或的都放进来了&lt;/s&gt;&lt;/p&gt;
+&lt;h2 id=&#34;moamen-and-xor&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#moamen-and-xor&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb2RlZm9yY2VzLmNvbS9jb250ZXN0LzE1NTcvcHJvYmxlbS9D&#34;&gt;Moamen and XOR&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;题意：你需要构造出一个长度位 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;n&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.43056em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 的数组，其中每个元素都小于 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;2^k&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.849108em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.849108em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.03148em;&#34;&gt;k&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; , 并且满足:&lt;/p&gt;
+ a_1 \&amp; a_2 \&amp; a_3 \ \&amp;  \dotsb \&amp; \ a_n \geq a_1 \oplus a_2  \oplus a_3 \oplus \dotsb \oplus a_n\
+
+</content>
+        <category term="笔记" scheme="https://blog.xinzirui.cn/categories/note/" />
+        <updated>2023-09-11T02:52:22.697Z</updated>
+    </entry>
+    <entry>
         <id>https://blog.xinzirui.cn/2023/09/03/solve/Atcoder/ABC300/</id>
         <title>ABC300</title>
         <link rel="alternate" href="https://blog.xinzirui.cn/2023/09/03/solve/Atcoder/ABC300/"/>
