@@ -17,6 +17,7 @@
             <title>模拟退火</title>
             <link>https://blog.xinzirui.cn/2023/09/12/note/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%AB/</link>
             <category term="笔记" scheme="https://blog.xinzirui.cn/categories/note/" />
+            <category term="OI" scheme="https://blog.xinzirui.cn/categories/note/OI/" />
             <pubDate>Tue, 12 Sep 2023 19:41:06 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;前导&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前导&#34;&gt;#&lt;/a&gt; 前导&lt;/h2&gt;
 &lt;p&gt;今天就浅浅学了一下，这玩意比较看运气吧。&lt;/p&gt;
@@ -243,6 +244,7 @@ int main()&amp;#123;
             <title>异或</title>
             <link>https://blog.xinzirui.cn/2023/09/11/note/%E5%BC%82%E6%88%96/</link>
             <category term="笔记" scheme="https://blog.xinzirui.cn/categories/note/" />
+            <category term="OI" scheme="https://blog.xinzirui.cn/categories/note/OI/" />
             <pubDate>Mon, 11 Sep 2023 10:52:22 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;s&gt;带点异或的都放进来了&lt;/s&gt;&lt;/p&gt;
 &lt;h2 id=&#34;moamen-and-xor&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#moamen-and-xor&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb2RlZm9yY2VzLmNvbS9jb250ZXN0LzE1NTcvcHJvYmxlbS9D&#34;&gt;Moamen and XOR&lt;/span&gt;&lt;/h2&gt;
