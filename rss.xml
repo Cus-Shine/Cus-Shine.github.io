@@ -10,8 +10,35 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Sun, 15 Oct 2023 09:39:54 +0800</pubDate>
-        <lastBuildDate>Sun, 15 Oct 2023 09:39:54 +0800</lastBuildDate>
+        <pubDate>Sat, 21 Oct 2023 09:45:56 +0800</pubDate>
+        <lastBuildDate>Sat, 21 Oct 2023 09:45:56 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://blog.xinzirui.cn/note/OI/%E5%AF%B9%E6%8B%8D/</guid>
+            <title>对拍</title>
+            <link>https://blog.xinzirui.cn/note/OI/%E5%AF%B9%E6%8B%8D/</link>
+            <category term="笔记" scheme="https://blog.xinzirui.cn/categories/note/" />
+            <category term="OI" scheme="https://blog.xinzirui.cn/categories/note/OI/" />
+            <pubDate>Sat, 21 Oct 2023 09:45:56 +0800</pubDate>
+            <description><![CDATA[ &lt;pre&gt;&lt;code class=&#34;language-C++&#34;&gt;#include&amp;lt;bits/stdc++.h&amp;gt;
+using namespace std;
+int main()&amp;#123;
+	for(int i=1;;i++)&amp;#123;
+		system(&amp;quot;maker.exe &amp;gt; in.txt&amp;quot;);
+		printf(&amp;quot;Data Ready!\n&amp;quot;);
+		system(&amp;quot;baoli.exe &amp;lt; in.txt &amp;gt; ans.txt&amp;quot;);
+		printf(&amp;quot;Baoli Ready!\n&amp;quot;);
+		system(&amp;quot;std.exe &amp;lt; in.txt &amp;gt; out.txt&amp;quot;);
+		printf(&amp;quot;Std Ready!\n&amp;quot;);
+		if(system(&amp;quot;fc out.txt ans.txt&amp;quot;))&amp;#123;
+			break;
+		&amp;#125;
+		printf(&amp;quot;AC %d\n&amp;quot;,i);
+	&amp;#125;
+	return 0;
+&amp;#125;
+&lt;/code&gt;&lt;/pre&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://blog.xinzirui.cn/solve/Atcoder/ARC143%20D/</guid>
             <title>ARC 143 D.Bridges</title>

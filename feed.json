@@ -7,6 +7,17 @@
     "home_page_url": "https://blog.xinzirui.cn",
     "items": [
         {
+            "id": "https://blog.xinzirui.cn/note/OI/%E5%AF%B9%E6%8B%8D/",
+            "url": "https://blog.xinzirui.cn/note/OI/%E5%AF%B9%E6%8B%8D/",
+            "title": "对拍",
+            "date_published": "2023-10-21T01:45:56.171Z",
+            "content_html": "<pre><code class=\"language-C++\">#include&lt;bits/stdc++.h&gt;\nusing namespace std;\nint main()&#123;\n\tfor(int i=1;;i++)&#123;\n\t\tsystem(&quot;maker.exe &gt; in.txt&quot;);\n\t\tprintf(&quot;Data Ready!\\n&quot;);\n\t\tsystem(&quot;baoli.exe &lt; in.txt &gt; ans.txt&quot;);\n\t\tprintf(&quot;Baoli Ready!\\n&quot;);\n\t\tsystem(&quot;std.exe &lt; in.txt &gt; out.txt&quot;);\n\t\tprintf(&quot;Std Ready!\\n&quot;);\n\t\tif(system(&quot;fc out.txt ans.txt&quot;))&#123;\n\t\t\tbreak;\n\t\t&#125;\n\t\tprintf(&quot;AC %d\\n&quot;,i);\n\t&#125;\n\treturn 0;\n&#125;\n</code></pre>\n",
+            "tags": [
+                "笔记",
+                "OI"
+            ]
+        },
+        {
             "id": "https://blog.xinzirui.cn/solve/Atcoder/ARC143%20D/",
             "url": "https://blog.xinzirui.cn/solve/Atcoder/ARC143%20D/",
             "title": "ARC 143 D.Bridges",
