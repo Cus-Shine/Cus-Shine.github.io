@@ -168,6 +168,8 @@ int main()&amp;#123;
             <guid isPermalink="true">https://blog.xinzirui.cn/solve/luogu/P7077%20[CSP-S2020]%20%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8/</guid>
             <title>函数调用</title>
             <link>https://blog.xinzirui.cn/solve/luogu/P7077%20[CSP-S2020]%20%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8/</link>
+            <category term="题解" scheme="https://blog.xinzirui.cn/categories/solve/" />
+            <category term="洛谷" scheme="https://blog.xinzirui.cn/categories/solve/luogu/" />
             <pubDate>Fri, 15 Sep 2023 10:42:33 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;函数调用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#函数调用&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3Byb2JsZW0vUDcwNzc=&#34;&gt;函数调用&lt;/span&gt;&lt;/h1&gt;
 &lt;p&gt;操作三的存在就相当于给操作建了一个树，那先想没有操作三。没有操作三，那每个操作之间都是独立的，一次操作二可以使前面的加法翻倍，那么就倒着做，算出这个操作一所带的乘法系数。&lt;/p&gt;
