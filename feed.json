@@ -40,14 +40,14 @@
             "tags": [
                 "题解",
                 "USACO",
-                "UASCO 2018",
-                "并查集"
+                "并查集",
+                "UASCO 2018"
             ]
         },
         {
             "id": "https://blog.xinzirui.cn/Language/%E6%B3%95%E8%AF%AD/%E7%A9%BA/",
             "url": "https://blog.xinzirui.cn/Language/%E6%B3%95%E8%AF%AD/%E7%A9%BA/",
-            "title": "",
+            "title": "法语",
             "date_published": "2023-11-12T03:02:32.141Z",
             "content_html": "",
             "tags": []
@@ -55,10 +55,12 @@
         {
             "id": "https://blog.xinzirui.cn/Language/%E6%97%A5%E8%AF%AD/%E4%BA%94%E5%8D%81%E9%9F%B3/",
             "url": "https://blog.xinzirui.cn/Language/%E6%97%A5%E8%AF%AD/%E4%BA%94%E5%8D%81%E9%9F%B3/",
-            "title": "",
+            "title": "日语",
             "date_published": "2023-11-12T03:02:07.469Z",
             "content_html": "",
-            "tags": []
+            "tags": [
+                "日语"
+            ]
         },
         {
             "id": "https://blog.xinzirui.cn/solve/USACO/[USACO18JAN]%20Rental%20Service%20S/",
